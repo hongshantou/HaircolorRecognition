@@ -1,10 +1,10 @@
 # Haircolor-Recognition
 二次元イラストに映る人物の髪色を分類します。自分がChainerに慣れるためConvolutional Neural Networkを使っていますが、CNNを使うまでもないかもしれません。
 
-各プログラムの説明をすると
-scrayping.pyでsafebooruから画像を集めて
-extract.pyで集めた画像からlbpcascade_animeface.xmlとopencvで顔を抽出
-preparing_traindata.pyでデータの整形と、データとラベリングそれぞれをnpyファイルへ
-chainerCNN.pyで実際に分類、またテストデータに対する精度も計算します。chainerCNN.pyではGPUでの計算を仮定しています。
+各プログラムの説明をすると\n
+scrayping.pyでsafebooruから画像を集めて\n
+extract.pyで集めた画像からlbpcascade_animeface.xmlとopencvで顔を抽出\n
+preparing_traindata.pyでデータの整形と、データとラベリングそれぞれをnpyファイルへ\n
+chainerCNN.pyで実際に分類、またテストデータに対する精度も計算します。chainerCNN.pyではGPUでの計算を仮定しています。\n
 
 コメントアウトが少なくわかりにくい所もあると思うかもしれませんが、遠慮無く聞いてください。
