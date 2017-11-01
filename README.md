@@ -1,5 +1,5 @@
 # Haircolor-Recognition
-二次元イラストに映る人物の髪色を分類します。自分がChainerに慣れるためConvolutional Neural Networkを使っていますが、CNNを使うまでもないかもしれません。
+二次元イラストに映る人物の髪色を分類します。自分がChainerに慣れるためConvolutional Neural Networkを使っていますが、CNNを使うまでもないかもしれません。また、データのアノテーション用に書いたものなのでCNNの構造としては簡素なものである事にご注意ください。
 
 各プログラムの説明をすると  
 scrayping.pyでsafebooruから画像を集めて  
