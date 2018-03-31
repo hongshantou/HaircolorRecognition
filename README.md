@@ -11,4 +11,4 @@ Trimming faces of collected images using lbpcascade_animeface.xml amd opencv.
 Preparing .npy file
 
 ` $ python chainerCNN.py`  
-Recognnition.
+Recognition.
